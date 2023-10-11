@@ -7,3 +7,4 @@
 *.rar
 *.zip
 *.gz
+.env

@@ -1,0 +1,19 @@
+name: NLP
+channels:
+  - defaults
+dependencies:
+  - scipy
+  - pandas
+  - scikit-learn
+  - nltk
+  - ipykernel
+  - requests
+  - lxml
+  - bs4
+  - seaborn
+  - gensim
+  - toolz
+  - python=3.10
+  - tensorflow
+  - wordcloud
+prefix: C:\Users\jcgut\.conda\envs\NLP
