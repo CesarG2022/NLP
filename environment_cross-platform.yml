@@ -16,4 +16,11 @@ dependencies:
   - python=3.10
   - tensorflow
   - wordcloud
+  - openai
+  - tiktoken
+  - python-dotenv
+  - spacy
+  - psycopg2
+  - pypdf2
+  - flask
 prefix: C:\Users\jcgut\.conda\envs\NLP
