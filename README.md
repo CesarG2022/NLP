@@ -14,7 +14,10 @@ This is a personal project to test and summarize some of the most common techniq
         * [Visualizations of clusters with wordclouds](#vis_wc)
     + [Word embeddings](#embedd)
 - [Topic extraction with LDA(Latent Dirichlet Allocation)](#dirichlet)
-- [](#)
+- [Ensure validity](#ensu_val)
+- [Using pre-trained LLM(large language models) models](#pre_trained)
+    + [Embeddings(from spacy or openai) to extract information from documents with new or specific information](#embe_ext)
+    + [Fine tunning(¡pending!)](#fine_tun)
 
 <a id="web_s"></a>
 # Web scrapping
@@ -53,10 +56,19 @@ This is a personal project to test and summarize some of the most common techniq
 ## Word embeddings
 
 <a id="dirichlet"></a>
-# Topic extraction with LDA(Latent Dirichlet Allocation
+# Topic extraction with LDA(Latent Dirichlet Allocation)
 
-<a id=""></a>
-# 
+<a id="ensu_val"></a>
+# Ensure validity
+
+<a id="pre_trained"></a>
+# Using pre-trained LLM(large language models) models
+
+<a id="embe_ext"></a>
+## Embeddings(from spacy or openai) to extract information from documents with new or specific information
+
+<a id="fine_tun"></a>
+## 
 
 <a id=""></a>
 # 
