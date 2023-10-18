@@ -9,3 +9,4 @@
 *.gz
 .env
 statistics.ipynb
+.vscode
